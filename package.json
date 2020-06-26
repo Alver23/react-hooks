@@ -1,12 +1,20 @@
 {
   "name": "curso-react-hook-mearn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso de react hooks y MEAR con Fernando Herrera",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Alver Grisales <viga.23@hotmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alver23/react-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alver23/react-hooks/issues"
+  },
+  "homepage": "https://github.com/Alver23/react-hooks#readme"
 }
